@@ -105,6 +105,7 @@ h6,
 
 p {
     line-height: 28px;
+    text-align: justify;
 }
 
 ul,
@@ -1231,10 +1232,6 @@ html {
     object-fit: cover;
 }
 
-p {
-    text-align: justify;
-}
-
 @media (max-width: 767px) {
     p {
         text-align: left;
@@ -1269,7 +1266,7 @@ p {
     justify-content: center;
     min-width: 140px;
     margin: 0 20px;
-    font-size: 16px;
+    font-size: 20px;
     font-weight: 500;
 }
 
