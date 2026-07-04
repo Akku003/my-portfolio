@@ -1397,8 +1397,8 @@ p {
 .service-item .content p {
     margin-bottom: 0;
     color: rgb(119, 119, 125);
-    font-size: 16px;
-    line-height: 22px;
+    font-size: 20px;
+    line-height: 26px;
 }
 
 .service-item .content h4 {
