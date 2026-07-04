@@ -108,11 +108,11 @@ p {
     text-align: justify;
 }
 
-ul,
+/* ul,
 li {
     margin: 0;
     padding: 0;
-}
+} */
 
 fieldset {
     border: 0 none;
@@ -1239,7 +1239,7 @@ html {
     font-weight: 500;
 }
 
-.skill-marquee-item i i {
+.skill-marquee-item i {
     font-size: 100px;
     margin-bottom: 10px;
 }
